@@ -1,0 +1,19 @@
+html,
+body,
+ul,
+ol {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, sans-serif !important;
+  background-color: #9dffc9 !important;
+}
+
+#list {
+  margin-left: 10px;
+}
+
+/*# sourceMappingURL=index.css.map */
